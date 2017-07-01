@@ -8,4 +8,5 @@ Run `npm install` in order to download all dependencies.
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
+You can change default syle in src/app/app.component.ts
 
